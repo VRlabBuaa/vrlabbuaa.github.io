@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://vrlabbuaa.github.io/"/>
-  <updated>2017-03-12T09:08:27.684Z</updated>
+  <updated>2017-03-12T09:32:29.614Z</updated>
   <id>http://vrlabbuaa.github.io/</id>
   
   <author>
@@ -19,8 +19,8 @@
     <title>Publications</title>
     <link href="http://vrlabbuaa.github.io/2017/03/12/hello-world/"/>
     <id>http://vrlabbuaa.github.io/2017/03/12/hello-world/</id>
-    <published>2017-03-12T09:08:27.699Z</published>
-    <updated>2017-03-12T09:08:27.684Z</updated>
+    <published>2017-03-12T09:32:29.615Z</published>
+    <updated>2017-03-12T09:32:29.614Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to the VR Lab of Beihang University! Belows are the papers we published in recent years.</p>
 <h1 id="2016"><a href="#2016" class="headerlink" title="2016"></a>2016</h1><h2 id="Physics"><a href="#Physics" class="headerlink" title="Physics"></a>Physics</h2><h3 id="SPH"><a href="#SPH" class="headerlink" title="SPH"></a>SPH</h3><h3 id="FLIP"><a href="#FLIP" class="headerlink" title="FLIP"></a>FLIP</h3><p>Qiu Y, Yang L, Li S, et al. Novel fluid detail enhancement based on multi-layer depth regression analysis and FLIP fluid simulation[J]. Computer Animation &amp; Virtual Worlds, 2016.<br><a href="http://www3.cs.stonybrook.edu/~qin/research/2016-cavw-novel-fluid-detail-enhancement.pdf" target="_blank" rel="external">PDF</a>,<a href="https://www.youtube.com/watch?v=FeYlP24HDgw" target="_blank" rel="external">Video</a><br><a href="https://www.youtube.com/watch?v=FeYlP24HDgw" target="_blank" rel="external"><img src="/image/cavw_qiu.png" alt="ScreenShot"></a></p>
@@ -34,6 +34,8 @@
     
     </summary>
     
+    
+      <category term="example" scheme="http://vrlabbuaa.github.io/tags/example/"/>
     
   </entry>
   
